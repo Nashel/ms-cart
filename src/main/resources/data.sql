@@ -1,0 +1,10 @@
+INSERT INTO product (description, amount) VALUES ('Christmas tree with decorations', 120.50);
+INSERT INTO Product (description, amount) VALUES ('Santa Claus figurine', 25.99);
+INSERT INTO Product (description, amount) VALUES ('Gift wrapping paper set', 15.75);
+INSERT INTO Product (description, amount) VALUES ('LED Christmas lights', 45.00);
+INSERT INTO Product (description, amount) VALUES ('Christmas-themed mug', 30.00);
+INSERT INTO Product (description, amount) VALUES ('Crayons', 2.25);
+INSERT INTO Product (description, amount) VALUES ('Holiday baking supplies pack', 60.00);
+INSERT INTO Product (description, amount) VALUES ('Christmas wreath', 40.00);
+INSERT INTO Product (description, amount) VALUES ('Winter scented candle', 35.50);
+INSERT INTO Product (description, amount) VALUES ('Hot chocolate gift set', 20.00);
