@@ -131,7 +131,6 @@ class CartControllerIntegrationTest {
     }
 
     @Test
-    @Order(3)
     void positiveTC1_UpdateItemsCart() throws Exception {
         String cartJSONString =
                 "{\"cartItems\": [{" +

@@ -116,7 +116,7 @@ public class CartServiceImpl implements CartService {
                 for (CartItem item2Update : cartItems2Update) {
                     if (item2Update.getProduct().getId().equals(product.getId())) {
                         cartContainsItem = true;
-                        itemIdFound = item2Update.getProduct().getId();
+                        itemIdFound = item2Update.getId();
                         break;
                     }
                 }
